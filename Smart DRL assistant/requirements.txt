@@ -8,6 +8,7 @@ google-generativeai>=0.8
 
 # Thu thập tự động từ cổng công khai HCMUS (Tab 2)
 requests>=2.31
+feedparser
 
 # Tuỳ chọn (có fallback nếu thiếu)
 openai>=1.40
